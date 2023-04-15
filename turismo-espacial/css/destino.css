@@ -1,0 +1,28 @@
+body.pagina-planetas {
+  background-image: url(../img/destino/background-destination-desktop.jpg);
+}
+
+.pagina-planetas .conteudo {
+  text-align: center;
+}
+
+.pagina-planetas main {
+  justify-content: space-between;
+  gap: 80px;
+}
+
+.pagina-planetas h1 {
+  text-align: center;
+}
+
+.pagina-planetas main p {
+  padding-bottom: 15px;
+}
+
+.pagina-planetas main hr {
+  margin-bottom: 15px;
+}
+
+.pagina-planetas .menu-destinos ul {
+  padding: 20px 170px;
+}

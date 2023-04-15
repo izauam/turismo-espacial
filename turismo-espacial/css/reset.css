@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url('../img/home/background-home-desktop.jpg');
+  background-size: cover;
+  background-position: top right;
+  color: #fff;
+}
+
+img {
+  max-width: 100%;
+}
+
 ul {
   list-style: none;
 }

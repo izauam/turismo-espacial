@@ -2,9 +2,16 @@ header {
   margin-top: 25px;
 }
 
+.logo img {
+  margin-left: 140px;
+  width: 40px;
+  height: 40px;
+}
+
 .cabecalho .linha {
   border-bottom: 1px solid #fff;
-  padding-bottom: 15px;
+  flex: 0.8;
+  transform: translateX(20%);
 }
 
 .cabecalho {
@@ -21,8 +28,11 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 20px;
-  margin-left: -50%;
   background-color: rgba(211, 211, 211, 0.4);
-  min-height: 70px;
+  padding: 20px 170px 20px 90px;
+  gap: 40px;
+}
+
+li a {
+  color: #fff;
 }

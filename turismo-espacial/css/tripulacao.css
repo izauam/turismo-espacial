@@ -1,0 +1,32 @@
+body.tripulacao {
+  background-image: url(../img/equipe/background-crew-desktop.jpg);
+}
+
+.tripulacao main {
+  gap: 80px;
+}
+
+.tripulacao main h1 {
+  padding-top: 25px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.tripulacao main p {
+  text-align: justify;
+}
+
+.tripulacao .conteudo {
+  transform: translateX(20%);
+}
+
+.tripulacao .conteudo h2 {
+  width: 300px;
+  text-align: center;
+}
+
+.tripulacao .conteudo-tripulacao ul {
+  background-color: none;
+  text-align: center;
+  padding: 20px 90px 20px 90px;
+}
