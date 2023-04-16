@@ -26,3 +26,7 @@ body.pagina-planetas {
 .pagina-planetas .menu-destinos ul {
   padding: 20px 170px;
 }
+
+.pagina-planetas main .destinos {
+  transform: translateX(10%);
+}

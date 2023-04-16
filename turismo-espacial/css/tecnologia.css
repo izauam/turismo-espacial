@@ -1,0 +1,29 @@
+body.tecnologia {
+  background-image: url(../img/tecnologia/background-technology-desktop.jpg);
+}
+
+.tecnologia main {
+  gap: 80px;
+  margin-top: 80px;
+}
+
+.tecnologia .conteudo-tecnologia {
+  width: 100%;
+  margin: 10% auto;
+  max-width: 900px;
+  align-items: center;
+}
+
+.tecnologia main h1 {
+  padding-top: 25px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.tecnologia .menu-tecnologia ul {
+  padding: 20px 90px 20px 90px;
+}
+
+.tecnologia .menu-tecnologia ul li {
+  text-align: center;
+}

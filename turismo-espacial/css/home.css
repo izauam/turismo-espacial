@@ -25,10 +25,12 @@ main p {
 }
 
 button {
-  width: 180px;
-  height: 180px;
+  width: 140px;
+  height: 140px;
   border-radius: 100%;
   border: 0;
+  text-transform: uppercase;
+  background-color: rgba(211, 211, 211, 0.4);
 }
 
 .conteudo {
